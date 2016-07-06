@@ -1,0 +1,14 @@
+{
+    "name": "larakit/sf-angular-satellizer",
+    "description": "[Larakit] [staticfiles] Token-based AngularJS Authentication",
+    "version": "0.14.1",
+    "license": "MIT",
+    "require":{
+        "larakit/lk-staticfiles":"*"
+    },
+    "autoload": {
+        "files": [
+            "init.php"
+        ]
+    }
+}
